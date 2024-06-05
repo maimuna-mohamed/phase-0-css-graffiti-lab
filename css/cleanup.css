@@ -1,1 +1,17 @@
 /* write your override styles here */
+.tag-1 {
+    background: url(../images/tag-1.png) no-repeat;
+    z-index: 7;
+    display: block;
+}
+.box {
+    background-color: #567895;
+  }
+  h2 {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+  }
+  body {
+    font-family: "Raleway", Arial, sans-serif
+}
